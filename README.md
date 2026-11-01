@@ -14,7 +14,6 @@ I enjoy building systems that turn data into useful decisions. My projects cover
 | [Retail database application](https://github.com/Vir-Ginia/Retail-Database-System) | Relational modelling, SQL business rules, data browsing and search | Oracle SQL, PHP, HTML |
 | [Concurrent computer retailer](https://github.com/Vir-Ginia/Java-Concurrent-Retailer) | Worker threads, bounded blocking queues and an assembly-to-dispatch pipeline | Java, Maven, concurrency |
 | [Java word game](https://github.com/Vir-Ginia/Java-Word-Game) | Dictionary validation, random starting words and console input handling | Java |
-| [MORRETTO Shopify theme](https://github.com/Vir-Ginia/MORRETTO-Shopify-Theme) | Custom storefront sections, product templates, styling and cart interactions | Liquid, JavaScript, CSS |
 
 Each repository includes a project overview and notes about its implementation and verification. The concurrent retailer includes the supporting coursework framework alongside the submission.
 
