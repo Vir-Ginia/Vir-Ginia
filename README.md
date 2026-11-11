@@ -1,6 +1,6 @@
 # Hi, I'm Virginia Eduwa
 
-First-class MSci Data Science with Applied Business Informatics graduate from Keele University, interested in data engineering, analytics and software development.
+First-class MSci Data Science with Applied Business Informatics graduate from Keele University, interested in quant, data engineering, analytics, banking and software development.
 
 I enjoy building systems that turn data into useful decisions. My projects cover application programming interfaces (APIs), databases, machine learning, concurrent software and sensor data.
 
